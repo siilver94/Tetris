@@ -672,3 +672,5 @@ void pause(void){ //게임 일시정지 함수
         }
     }    
 }
+
+// 출처 : https://m.blog.naver.com/azure0777/220295388741
